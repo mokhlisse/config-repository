@@ -1,5 +1,5 @@
 spring.jpa.show-sql: "true"
-spring.jpa.database: "city_local"
+spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.database.driverClassName: "org.mysql.Driver"
 spring.datasource.url: "jdbc:mysql://database:3306/city_local?useSSL=false"
